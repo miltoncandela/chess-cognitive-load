@@ -1,1 +1,1 @@
-# chess-cognitive-load
+# Neuro

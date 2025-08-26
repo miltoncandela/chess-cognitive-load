@@ -1,0 +1,38 @@
+ID,Nombre,Condicion,ELO,ELO_Ajst,Aciertos,Orden,Frecuencia,Cafes,Horas,Ansiedad
+1,Pascual Andres Barba Garza,Ambiental,1400,1000,1,1,Cuando se da la ocasión.,Diario,4-6,"Sudor, Irritabilidad"
+2,Diego,Ambiental,1200,1700,3,2,Cuando se da la ocasión.,No tomo cafe,6-8,Nada
+3,Bernardo de la Sierra Rábago ,Ambiental,800,,0,3,Cuando se da la ocasión.,No tomo cafe,4-6,Nada
+4,Diego Fernando Reyna,Ambiental,1100,,1,4,Diario,1-3,6-8,"Mareos, Falta de atención"
+6,Miguel Angel Gaona Sanchez,Ambiental,1580,,2,6,Diario,No tomo cafe,6-8,"Falta de atención, Irritabilidad"
+5,Miguel Cadena Cerino,Ambiental,1100,,1,5,Diario,No tomo cafe,4-6,"Temblores, Sudor, Insomnio, Falta de atención"
+7,Rogelio Emiliano Lara de Luna,Ambiental,1800,,4,7,2 a 5 dias por semana,No tomo cafe,6-8,Insomnio
+8,Victor,Ambiental,1050,1500,2,8,Cuando se da la ocasión.,Mas de uno al día,4-6,"Malestar abdominal, Insomnio, Palpitaciones"
+9,Kevin,Ambiental,1600,,3,9,2 a 5 dias por semana,No tomo cafe,mas de 8 horas,Nada
+10,Brandon,Ambiental,1200,,0,10,Cuando se da la ocasión.,1-3,4-6,Nada
+11,David Ramirez,Blanco,1270,,1,1,Diario,1-3,6-8,Nada
+12,Damián Albino,Blanco,1000,,1,2,2 a 5 dias por semana,1-3,4-6,Nada
+13,Matienzo,Blanco,2150,2100,4,3,Diario,No tomo cafe,mas de 8 horas,Insomnio
+14,Carol,Blanco,1730,1750,4,4,2 a 5 dias por semana,3-5,4-6,"Malestar abdominal, Irritabilidad"
+15,Andrea Gonzalez,Blanco,800,,0,5,Cuando se da la ocasión.,No tomo cafe,6-8,"Sudor, Mareos, Dificultades para recordar cosas"
+16,Jorge Martinez,Blanco,1960,1700,3,6,Diario,No tomo cafe,4-6,"Temblores, Sudor"
+17,Sebastian Valencia,Blanco,800,,0,7,1 vez por semana,No tomo cafe,mas de 8 horas,"Falta de atención, Sensibilidad extrema"
+18,Juan Manuel Cantú,Blanco,1000,,0,8,Cuando se da la ocasión.,3-5,6-8,"Sudor, Falta de atención, Dificultades para recordar cosas, Irritabilidad"
+19,Gabriel Chavez Ramirez,Blanco,800,,0,9,Cuando se da la ocasión.,1-3,6-8,"Temblores, Sudor, Malestar abdominal, Falta de atención, Dificultades para recordar cosas, Irritabilidad, Palpitaciones"
+20,Emilio Williams,Blanco,1700,1400,2,10,Diario,1-3,mas de 8 horas,Falta de atención
+22,Christian,Ambiental,1300,,1,11,Diario,No tomo cafe,4-6,Falta de atención
+21,Leonardo de la Parra,Ambiental,2000,,4,12,Diario,1-3,6-8,"Malestar abdominal, Palpitaciones"
+23,Alejandro Marquez,Ambiental,900,1600,3,13,2 a 5 dias por semana,1-3,mas de 8 horas,Nada
+24,Alejandro Ruiz Tejada,Ambiental,1250,,2,14,Cuando se da la ocasión.,Diario,mas de 8 horas,Nada
+25,Luis Alberto Gutierrez,Blanco,1850,,4,11,2 a 5 dias por semana,Mas de uno al día,6-8,Nada
+26,Kraken,Blanco,800,,0,12,Cuando se da la ocasión.,1-3,6-8,Falta de atención
+27,Cesar Armando,Blanco,1700,1400,1,13,1 vez cada 2 semanas,Diario,6-8,Malestar abdominal
+28,Alejandro Lastra,Ambiental,800,,0,3,Cuando se da la ocasión.,No tomo cafe,6-8,"Dolor muscular, Palpitaciones"
+29,Iván Buda,Ambiental,800,,0,10,Casi nunca,No tomo cafe,6-8,Palpitaciones
+30,Erick Perales,Blanco,800,,0,9,Casi nunca,Diario,6-8,"Temblores, Palpitaciones"
+31,Jose Pablo,Blanco,900,,0,14,Cuando se da la ocasión.,No tomo cafe,6-8,"Insomnio, Irritabilidad"
+32,Andres Arroyo,Blanco,800,,0,15,Casi nunca,3-5,6-8,"Temblores, Dificultades para recordar cosas, Sensibilidad extrema"
+33,Isaac Batallas,Ambiental,800,1500,2,15,1 vez cada 2 semanas,No tomo cafe,4-6,"Sudor, Malestar abdominal, Palpitaciones"
+34,Ernesto Saucedo,Blanco,,,1,16,,,,
+35,Santiago Martinez,Ambiental,1200,1500,2,16,1 vez por semana,Diario,6-8,"Temblores, Irritabilidad"
+36,Joel,Blanco,1000,1500,2,17,Cuando se da la ocasión.,No tomo cafe,6-8,Nada
+37,Carlo Peña,Ambiental,800,,0,17,Casi nunca,3-5,6-8,Falta de atención

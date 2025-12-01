@@ -1,3 +1,6 @@
+# Author: Milton Candela (https://github.com/miltoncandela)
+# Date: March 2023
+
 import pandas as pd
 import mne
 import matplotlib.pyplot as plt

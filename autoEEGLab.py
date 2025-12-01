@@ -1,3 +1,6 @@
+# Author: Milton Candela (https://github.com/miltoncandela)
+# Date: Septembrer 2023
+
 import pyautogui as pt
 from time import sleep
 import os
@@ -72,7 +75,7 @@ def load_file():
 
     pt.moveTo(x + 935, y + 72)
     pt.click()
-    pt.typewrite("C:\\Users\\Milton\\PycharmProjects\\Neuro\\data\\raw\\txt\\{}".format(data), interval=.01)
+    pt.typewrite("C:\\Users\\Milton\\PycharmProjects\\chess-cognitive-load\\data\\raw\\txt\\{}".format(data), interval=.01)
 
     pt.moveTo(x + 869, y + 103)
     pt.click()

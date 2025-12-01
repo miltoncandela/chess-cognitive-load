@@ -1,3 +1,6 @@
+# Author: Milton Candela (https://github.com/miltoncandela)
+# Date: March 2024
+
 import pandas as pd
 import numpy as np
 

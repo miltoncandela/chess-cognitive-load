@@ -1,8 +1,8 @@
-# ss
-
+# Author: Milton Candela (https://github.com/miltoncandela)
+# Date: June 2025
 
 #camino <- 'D:/El HDD/Python/Repos/Neuro/'
-camino <- 'C:/Users/Milton/PycharmProjects/Neuro/data/'
+camino <- 'C:/Users/Milton/PycharmProjects/chess-cognitive-load/data/'
 
 library(lattice)
 

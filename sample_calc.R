@@ -1,3 +1,6 @@
+# Author: Milton Candela (https://github.com/miltoncandela)
+# Date: June 2025
+
 # Load required libraries
 library(pwr)
 

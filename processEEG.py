@@ -1,3 +1,6 @@
+# Author: Milton Candela (https://github.com/miltoncandela)
+# Date: April 2024
+
 import os
 import pandas as pd
 # from brainflow import DataFilter

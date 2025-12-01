@@ -1,5 +1,7 @@
+# Author: Milton Candela (https://github.com/miltoncandela)
+# Date: June 2025
 
-df <- read.csv('C:/Users/Milton/PycharmProjects/Neuro/dataNeuroM.csv')
+df <- read.csv('C:/Users/Milton/PycharmProjects/chess-cognitive-load/dataNeuroM.csv')
 
 t.test(df[df$Condicion == 'Ambiental', 'Theta_C4'],
        df[df$Condicion == 'Blanco', 'Theta_C4'], 'less')$p.value

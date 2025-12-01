@@ -1,6 +1,7 @@
+# Author: Milton Candela (https://github.com/miltoncandela)
+# Date: June 2025
 
-
-camino <- "C:\\Users\\Milton\\PycharmProjects\\Neuro\\"
+camino <- "C:\\Users\\Milton\\PycharmProjects\\chess-cognitive-load\\"
 df <- read.csv(paste0(camino, 'peaks.csv'))
 colnames(df) <- c('ID', 'Value')
 

@@ -1,4 +1,4 @@
-# Author: Milton Candela (https://github.com/milkbacon)
+# Author: Milton Candela (https://github.com/miltoncandela)
 # Date: Septembrer 2023
 
 import os

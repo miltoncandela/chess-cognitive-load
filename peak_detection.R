@@ -1,3 +1,6 @@
+# Author: Milton Candela (https://github.com/miltoncandela)
+# Date: June 2025
+
 detect_peaks <- function(data, threshold = 0) {
      # Compute the first derivative
      derivative <- diff(data)
@@ -11,7 +14,7 @@ detect_peaks <- function(data, threshold = 0) {
      return(peak_indices)
 }
 
-camino <- "C:\\Users\\Milton\\PycharmProjects\\Neuro\\"
+camino <- "C:\\Users\\Milton\\PycharmProjects\\chess-cognitive-load\\"
 df <- read.csv(paste0(camino, 'dataNeuro.csv'),
                col.names = colnames(read.csv(paste0(camino, 'dataNeuro.csv'), nrows=1)))
 df <- df[df$ID == 2,]

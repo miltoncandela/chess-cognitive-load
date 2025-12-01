@@ -12,3 +12,6 @@ If you find anything in the paper or repository useful, please consider citing:
   booktitle = {Proceedings of the Annual Meeting of the Cognitive Science Society}
 }
 ```
+
+## Data
+Raw data is available upon reasonable request.

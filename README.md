@@ -13,5 +13,9 @@ If you find anything in the paper or repository useful, please consider citing:
 }
 ```
 
+> Candela-Leal MO, Ramirez-Moreno MA, Lozoya-Santos JJ (2025)<br>
+> **Task Resolution Time Estimation through Cognitive Load: An EEG Study of Chess Players**<br>
+> Proceedings of the 47<sup>th</sup> Annual Meeting of the Cognitive Science Society. https://escholarship.org/uc/item/6qh4q558
+
 ## Data
 Raw data is available upon reasonable request.
